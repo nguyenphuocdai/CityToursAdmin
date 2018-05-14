@@ -1,0 +1,9 @@
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\bin\Release\netstandard2.0\DAL.deps.json
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\bin\Release\netstandard2.0\DAL.dll
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\bin\Release\netstandard2.0\DAL.pdb
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\obj\Release\netstandard2.0\DAL.csprojResolveAssemblyReference.cache
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\obj\Release\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfo.cs
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\obj\Release\netstandard2.0\DAL.dll
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\DAL\obj\Release\netstandard2.0\DAL.pdb

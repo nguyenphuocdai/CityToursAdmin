@@ -1,0 +1,14 @@
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\CityToursAdmin.deps.json
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\CityToursAdmin.runtimeconfig.json
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\CityToursAdmin.runtimeconfig.dev.json
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\CityToursAdmin.dll
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\CityToursAdmin.pdb
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\DAL.dll
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.csprojResolveAssemblyReference.cache
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.csproj.CoreCompileInputs.cache
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.AssemblyInfoInputs.cache
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.AssemblyInfo.cs
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.csproj.CopyComplete
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.dll
+D:\CityToursAdmin\CityToursAdmin\CityToursAdmin\CityToursAdmin\obj\Debug\netcoreapp2.0\CityToursAdmin.pdb
